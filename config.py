@@ -1,0 +1,9 @@
+CAMERA_RESOLUTION = (640, 480)
+CAMERA_FRAMERATE = 30
+
+# 각 모터의 4개 GPIO 핀 (IN1, IN2, IN3, IN4)
+MOTOR1_PINS = [17, 18, 27, 22]  # 모터 1
+MOTOR2_PINS = [23, 24, 26, 5]   # 모터 2
+
+STEP_DELAY = 0.001  # 모터 속도 조절
+STEPS_PER_REVOLUTION = 512  # 모터의 1회전에 필요한 스텝 수
