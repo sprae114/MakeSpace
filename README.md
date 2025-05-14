@@ -28,4 +28,4 @@
 
 - 시퀀스 다이어그램
 
-![Image](https://github.com/user-attachments/assets/6838e05a-7623-4f35-90ae-0ea2e69ec3be)
+![Image](https://github.com/user-attachments/assets/23a527c3-1801-4556-81bb-b4e8491f4f06)
